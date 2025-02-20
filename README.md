@@ -6,6 +6,7 @@ This Python script converts copy-pasted bank statement transactions into a struc
 
 - Python 3.x
 - pandas library (`pip install pandas`)
+![image](https://github.com/user-attachments/assets/411ac661-fe7b-43fe-8f2a-6f9651f23ece)
 
 ## Usage
 
